@@ -1,6 +1,6 @@
 /*
 Author :
-- https://github.com/hellterhead
+- https://github.com/crash-override404
 */
 var liffId = "1655423393-n8ZBAVOl";
 var params = location.search.substring(1);

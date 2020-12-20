@@ -4,6 +4,8 @@ Author :
 Thanks to :
 - https://github.com/RynKings
 - https://github.com/ari-yk
+Forked :
+- https://github.com/hellterhead
 */
 
 window.onload = function() {

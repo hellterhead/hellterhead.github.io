@@ -1,6 +1,6 @@
 /*
 Author :
-- https://github.com/hellterhead
+- https://github.com/crash-override404
 Thanks to :
 - https://github.com/RynKings
 - https://github.com/ari-yk

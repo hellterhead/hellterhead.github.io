@@ -307,7 +307,7 @@ function sendLiffMessage() {
                                 action: {
                                     type: "uri",
                                     label: "Official Account",
-                                    uri: "https://lin.ee/11rbC7iM7"
+                                    uri: "https://lin.ee/495ggdyj"
                                 },
                                 flex: 1
                             },
